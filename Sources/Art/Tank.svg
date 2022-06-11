@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Tank.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.92742635"
+     inkscape:cx="124.69144"
+     inkscape:cy="235.79962"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="186.26666"
+       height="82.020828"
+       x="0.66154367"
+       y="214.50575"
+       inkscape:export-filename="D:\Projects\Development\Gamedev\Godot\TopDownTank\Textures\TankHull.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.05413198;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 351.84766 827.52344 C 338.95267 827.52344 326.47341 830.0061 314.63867 834.44922 A 137.3244 137.3244 0 0 0 218.5293 947.60938 C 189.88158 947.62214 -215.05469 953.18945 -215.05469 953.18945 C -215.05469 953.18945 -217.47266 952.1386 -217.47266 965.01953 C -217.47266 974.81973 -215.05469 976.21094 -215.05469 976.21094 C -215.05469 976.21094 188.39597 987.46129 218.99023 987.55273 A 137.3244 137.3244 0 0 0 354.5 1103.0547 A 137.3244 137.3244 0 0 0 491.82422 965.73047 A 137.3244 137.3244 0 0 0 404.53711 837.99023 C 388.30885 831.25138 370.51438 827.52344 351.84766 827.52344 z "
+       transform="scale(0.26458333)"
+       id="path817"
+       inkscape:export-filename="D:\Projects\Development\Gamedev\Godot\TopDownTank\Textures\TankTower.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.3142786;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect832"
+       width="11.914888"
+       height="2.6544714"
+       x="-78.717857"
+       y="254.18893"
+       inkscape:export-filename="D:\Projects\Development\Gamedev\Godot\TopDownTank\Textures\Ammo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
